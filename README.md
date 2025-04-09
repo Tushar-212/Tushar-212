@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Tushar Sinha
 
-<!--
-**Tushar-212/Tushar-212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science Student  
+💻 Passionate about C++, DSA, Backend Development, and Linux  
+🚀 Currently preparing for interviews and mastering SQL & AWS  
+📊 Aspiring Software Developer & Data Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Tech Stack
+
+- Languages: C++, Python, SQL
+- Tools: Git, GitHub, MySQL, PostgreSQL, Linux
+- Concepts: DSA, OOP, DBMS, OS, CN, SDLC
+
+---
+
+## 📈 My Goals
+- Crack product-based company placements  
+- Build open-source contributions  
+- Master data analytics and cloud computing  
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: sinhatushar71@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/tushar](https://www.linkedin.com/in/tushar-sinha-a50802227/)
